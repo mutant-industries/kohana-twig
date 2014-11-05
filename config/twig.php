@@ -52,7 +52,7 @@ return array(
         ),
         'loader' => array(
             'class' => 'Twig_Loader_Kohana',
-            'extension' => 'twig',
+            'extension' => 'twital.html',
             'options' => array(),
         ),
         'extensions' => array(
